@@ -5,7 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/712/PacMan/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/712/PacMan/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/712/PacMan/MyProject/Content/TopDown/Blueprints/BP_PacCharacter.uasset",
+				"C:/712/PacMan/MyProject/Content/Level/Pacman.umap",
+				"C:/712/PacMan/MyProject/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
+				"C:/712/PacMan/MyProject/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/712/PacMan/MyProject/Content/TopDown/Blueprints/BP_TopDownController.uasset"
 			]
 		}
 	]
